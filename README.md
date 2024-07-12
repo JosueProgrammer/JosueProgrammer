@@ -32,10 +32,10 @@ Fuera del ámbito técnico, me encanta explorar nuevas tecnologías, participar 
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-  <a href="https://facebook.com/https://www.facebook.com/profile.php?id=61553654321111" target="_blank">
+  <a href="https://facebook.com//" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com//" target="_blank">
+  <a href="https://www.instagram.com/josuebermudez1122/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:bermudezjosue183@gmail.com" target="_blank">
