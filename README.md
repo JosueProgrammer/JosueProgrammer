@@ -47,13 +47,3 @@ I’m passionate about **continuous learning**, **innovation**, and contributing
   <a href="https://www.instagram.com/josuebermudez1122/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:bermudezjosue183@gmail.com"><img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
-
----
-
-<p align="center">👀 Visitor Count</p>
-<p align="center">
-  <!-- Recommended (stable) -->
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/JosueProgrammer&title=Visitor+Count)
-  <!-- Alternative badge style (if you prefer a badge) -->
-  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=JosueProgrammer.JosueProgrammer" alt="visitor badge" /> -->
-</p>
