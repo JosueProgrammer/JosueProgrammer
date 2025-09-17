@@ -52,6 +52,8 @@ I’m passionate about **continuous learning**, **innovation**, and contributing
 
 <p align="center">👀 Visitor Count</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/JosueProgrammer/count.svg" alt="visitor count" />
+  <!-- Recommended (stable) -->
+  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/JosueProgrammer&title=Visitor+Count)
+  <!-- Alternative badge style (if you prefer a badge) -->
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=JosueProgrammer.JosueProgrammer" alt="visitor badge" /> -->
 </p>
-
