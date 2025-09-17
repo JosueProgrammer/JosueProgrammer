@@ -51,4 +51,7 @@ I’m passionate about **continuous learning**, **innovation**, and contributing
 ---
 
 <p align="center">👀 Visitor Count</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{JosueProgrammer}/count.svg"/></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/JosueProgrammer/count.svg" alt="visitor count" />
+</p>
+
