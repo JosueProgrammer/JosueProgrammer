@@ -1,11 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋+Welcome!;I'm+JosueProgrammer;Backend+Developer+🚀)
-
+https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋+Welcome!;I'm+Josu%C3%A9+Berm%C3%BAdez;Full+Stack+Developer+🚀
 ---
 
 ## 👨‍💻 About Me  
-I’m **JosueProgrammer**, a **full stack developer**.  
-I focus on building **secure, scalable, and efficient systems**, working with technologies such as **Node.js, .NET, SQL Server, and Firebase**.  
-I’m passionate about **continuous learning**, **innovation**, and contributing to impactful projects.
+Systems Engineer with a focus on developing web applications and efficient technological solutions. Experienced in full-stack development, with a strong emphasis on back-end, REST API design, and database management.
+
+I work with JavaScript, TypeScript, SQL, and C#, using frameworks and technologies such as Angular and NestJS, applying best practices in architecture and clean development. I am known for my teamwork, effective communication, and continuous learning, with a focus on creating scalable and high-quality software.
 
 ## 🛠️ Tech Stack  
 
