@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m **JosueProgrammer**, a **backend developer** and **Computer Systems Engineering student**.  
+I’m **JosueProgrammer**, a **full stack developer**.  
 I focus on building **secure, scalable, and efficient systems**, working with technologies such as **Node.js, .NET, SQL Server, and Firebase**.  
 I’m passionate about **continuous learning**, **innovation**, and contributing to impactful projects.  
 
