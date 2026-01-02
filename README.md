@@ -5,18 +5,7 @@
 ## 👨‍💻 About Me  
 I’m **JosueProgrammer**, a **full stack developer**.  
 I focus on building **secure, scalable, and efficient systems**, working with technologies such as **Node.js, .NET, SQL Server, and Firebase**.  
-I’m passionate about **continuous learning**, **innovation**, and contributing to impactful projects.  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JosueProgrammer&show_icons=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueProgrammer&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117"/>
-</div>
-
----
+I’m passionate about **continuous learning**, **innovation**, and contributing to impactful projects.
 
 ## 🛠️ Tech Stack  
 
